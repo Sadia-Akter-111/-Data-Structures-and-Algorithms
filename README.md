@@ -1,100 +1,131 @@
 
 # 🚀 Data Structures & Algorithms
 
-Welcome to my Data Structures & Algorithms (DSA) repository! 👋
+> *"Learning one concept at a time, solving one problem at a time."* 💡
 
-This repository contains my complete learning journey of Data Structures & Algorithms through:
+Welcome to my Data Structures & Algorithms (DSA) repository.
 
-- 📚 University Lab Work
-- 📝 Assignments
-- 💻 Practice Problems
-- ⚡ Algorithm Implementations
-- 🧩 Data Structure Implementations
-- 📖 Personal Notes
-- 🎯 Coding Exercises
+This repository represents my personal learning journey in Data Structures and Algorithms. Here I organize my university coursework, coding practice, implementations, and notes while continuously improving my programming and problem-solving skills.
 
-My goal is to build a well-organized collection of DSA concepts, algorithms, and solutions while continuously improving my problem-solving skills.
+---
+
+# 🌟 About This Repository
+
+This repository is built to:
+
+- 📚 Learn DSA from basic to advanced
+- 💻 Implement algorithms in C & C++
+- 📝 Store university assignments and lab tasks
+- 🧠 Practice coding problems
+- 📖 Keep personal study notes
+- 📈 Track my learning progress
+- 🎯 Prepare for coding interviews
 
 ---
 
 # 📂 Repository Structure
 
-Data-Structures-and-Algorithms/
 DSA/
 │
 ├── Arrays/
 ├── Strings/
-├── Linked List/
+├── Linked_List/
 ├── Stack/
 ├── Queue/
 ├── Trees/
-├── Binary Search Tree/
+├── Binary_Search_Tree/
 ├── Heap/
 ├── Hashing/
 ├── Graph/
-├── Dynamic Programming/
-├── Greedy/
-├── Recursion/
 ├── Sorting/
 ├── Searching/
-├── College Homework/
-├── Practice Problems/
+├── Recursion/
+├── Dynamic_Programming/
+├── Greedy/
+├── College_Assignments/
+├── Lab_Work/
+├── Practice_Problems/
 ├── Notes/
+└── Miscellaneous/
+---
+
+# 📚 Repository Contents
+
+✔ Data Structure Implementations
+
+✔ Algorithm Implementations
+
+✔ University Assignments
+
+✔ Lab Reports & Tasks
+
+✔ Coding Practice
+
+✔ Competitive Programming Solutions
+
+✔ Time & Space Complexity Analysis
+
+✔ Personal Notes
+
+✔ Well Commented Source Codes
+
+✔ Future DSA Projects
 
 ---
 
-# 📌 Contents
+# 💻 Languages
 
-This repository includes:
-
-- ✅ Array Implementations
-- ✅ Stack Implementations
-- ✅ Queue & Circular Queue
-- ✅ Linked List
-- ✅ Searching Algorithms
-- ✅ Sorting Algorithms
-- ✅ Trees
-- ✅ Graph Basics
-- ✅ Recursion
-- ✅ University Lab Assignments
-- ✅ Practice Problems
-- ✅ Personal Notes
+- C
+- C++
+- *(More languages will be added in the future.)*
 
 ---
 
-# 💻 Language Used
+# 🎯 My Learning Goals
 
-- C and c++
-
-> More languages may be added in the future.
+- Master fundamental DSA concepts.
+- Write clean and efficient code.
+- Improve logical thinking.
+- Solve problems consistently.
+- Build strong coding habits.
+- Become interview-ready.
 
 ---
 
-# 🎯 Purpose
+# 🚧 Future Plans
 
-The purpose of this repository is to:
+- ✅ More DSA implementations
+- ✅ LeetCode Solutions
+- ✅ Codeforces Problems
+- ✅ Interview Preparation Notes
+- ✅ Advanced Algorithms
+- ✅ STL Practice
+- ✅ System Design Notes (Future)
 
-- Improve problem-solving skills
-- Learn DSA from fundamentals to advanced topics
-- Keep all lab work organized
-- Track my learning progress
-- Build a strong programming foundation
-- Prepare for coding interviews and competitive programming
+---
+
+# 📖 Learning Philosophy
+
+> "Success doesn't come from doing extraordinary things. It comes from doing ordinary things consistently." 🚀
+
+Every commit in this repository reflects another step in my journey toward becoming a better programmer.
 
 ---
 
 # 👩‍💻 Author
 
-Sadia Akter Kajol
+### Sadia Akter Kajol
 
-Department of Computer Science & Engineering (CSE)
+🎓 CSE Undergraduate
 
-> *"Small progress every day leads to big results."* 🚀
+💙 Passionate about Programming & Problem Solving
 
 ---
 
 ## ⭐ Support
 
-If you find this repository helpful, please consider giving it a ⭐ Star.
+If you find this repository helpful, consider giving it a ⭐ Star.
 
-Thank you for visiting my repository! ❤️
+Thank you for visiting! ❤️
+
+Happy Coding! 🚀
