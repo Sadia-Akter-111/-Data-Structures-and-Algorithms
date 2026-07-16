@@ -20,21 +20,26 @@ My goal is to build a well-organized collection of DSA concepts, algorithms, and
 # 📂 Repository Structure
 
 Data-Structures-and-Algorithms/
+DSA/
 │
-├── 📁 Array
-├── 📁 Stack
-├── 📁 Queue
-├── 📁 Circular Queue
-├── 📁 Linked List
-├── 📁 Tree
-├── 📁 Graph
-├── 📁 Searching
-├── 📁 Sorting
-├── 📁 Recursion
-├── 📁 Practice Problems
-├── 📁 Notes
-└── 📄 README.md
-> 📌 This repository will continue to grow as I learn more DSA topics.
+├── Arrays/
+├── Strings/
+├── Linked List/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Binary Search Tree/
+├── Heap/
+├── Hashing/
+├── Graph/
+├── Dynamic Programming/
+├── Greedy/
+├── Recursion/
+├── Sorting/
+├── Searching/
+├── College Homework/
+├── Practice Problems/
+├── Notes/
 
 ---
 
