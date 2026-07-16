@@ -90,27 +90,7 @@ DSA/
 - Build strong coding habits.
 - Become interview-ready.
 
----
-
-# 🚧 Future Plans
-
-- ✅ More DSA implementations
-- ✅ LeetCode Solutions
-- ✅ Codeforces Problems
-- ✅ Interview Preparation Notes
-- ✅ Advanced Algorithms
-- ✅ STL Practice
-- ✅ System Design Notes (Future)
-
----
-
-# 📖 Learning Philosophy
-
-> "Success doesn't come from doing extraordinary things. It comes from doing ordinary things consistently." 🚀
-
-Every commit in this repository reflects another step in my journey toward becoming a better programmer.
-
----
+-
 
 # 👩‍💻 Author
 
