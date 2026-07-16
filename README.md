@@ -1,111 +1,91 @@
-
 # 🚀 Data Structures & Algorithms
 
-> *"Learning one concept at a time, solving one problem at a time."* 💡
-
-Welcome to my Data Structures & Algorithms (DSA) repository.
-
-This repository represents my personal learning journey in Data Structures and Algorithms. Here I organize my university coursework, coding practice, implementations, and notes while continuously improving my programming and problem-solving skills.
-
----
-
-# 🌟 About This Repository
-
-This repository is built to:
-
-- 📚 Learn DSA from basic to advanced
-- 💻 Implement algorithms in C & C++
-- 📝 Store university assignments and lab tasks
-- 🧠 Practice coding problems
-- 📖 Keep personal study notes
-- 📈 Track my learning progress
-- 🎯 Prepare for coding interviews
+<p align="center">
+  <b>A personal collection of Data Structures & Algorithms implementations, university coursework, and coding practice.</b><br>
+  <i>Learning • Building • Improving</i>
+</p>
 
 ---
 
-# 📂 Repository Structure
+## 📖 About This Repository
+
+Welcome! 👋
+
+This repository documents my journey of learning Data Structures & Algorithms (DSA). It contains my implementations, university assignments, practice problems, and personal notes. The goal is to improve my programming knowledge while building a well-organized collection of DSA concepts.
+
+---
+
+## 📂 Repository Structure
 
 DSA/
 │
-├── Arrays/
-├── Strings/
-├── Linked_List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Binary_Search_Tree/
-├── Heap/
-├── Hashing/
-├── Graph/
-├── Sorting/
-├── Searching/
-├── Recursion/
-├── Dynamic_Programming/
-├── Greedy/
-├── College_Assignments/
-├── Lab_Work/
-├── Practice_Problems/
-├── Notes/
-└── Miscellaneous/
----
-
-# 📚 Repository Contents
-
-✔ Data Structure Implementations
-
-✔ Algorithm Implementations
-
-✔ University Assignments
-
-✔ Lab Reports & Tasks
-
-✔ Coding Practice
-
-✔ Competitive Programming Solutions
-
-✔ Time & Space Complexity Analysis
-
-✔ Personal Notes
-
-✔ Well Commented Source Codes
-
-✔ Future DSA Projects
+├── 📁 Arrays
+├── 📁 Strings
+├── 📁 Linked List
+├── 📁 Stack
+├── 📁 Queue
+├── 📁 Trees
+├── 📁 Binary Search Tree
+├── 📁 Heap
+├── 📁 Hashing
+├── 📁 Graph
+├── 📁 Dynamic Programming
+├── 📁 Greedy
+├── 📁 Recursion
+├── 📁 Sorting
+├── 📁 Searching
+├── 📁 College Homework
+├── 📁 Practice Problems
+├── 📁 Notes
+└── 📁 Miscellaneous
+> 📌 New topics and solutions will be added regularly as I continue learning.
 
 ---
 
-# 💻 Languages
+## 📚 Repository Contents
+
+- ✅ Data Structure Implementations
+- ✅ Algorithm Implementations
+- ✅ University Assignments
+- ✅ Lab Exercises
+- ✅ Practice Problems
+- ✅ Coding Exercises
+- ✅ Time & Space Complexity Analysis
+- ✅ Personal Notes
+- ✅ Code Explanations
+
+---
+
+## 💻 Programming Languages
 
 - C
 - C++
-- *(More languages will be added in the future.)*
 
 ---
 
-# 🎯 My Learning Goals
+## 🎯 Purpose
 
-- Master fundamental DSA concepts.
-- Write clean and efficient code.
-- Improve logical thinking.
-- Solve problems consistently.
-- Build strong coding habits.
-- Become interview-ready.
+This repository is created to:
 
--
-
-# 👩‍💻 Author
-
-### Sadia Akter Kajol
-
-🎓 CSE Undergraduate
-
-💙 Passionate about Programming & Problem Solving
+- 📌 Strengthen problem-solving skills
+- 📌 Practice Data Structures & Algorithms
+- 📌 Organize academic work
+- 📌 Track learning progress
+- 📌 Build a personal revision resource
+- 📌 Write clean and efficient code
 
 ---
 
-## ⭐ Support
+## ⭐ Motivation
 
-If you find this repository helpful, consider giving it a ⭐ Star.
+> "Learning never stops. Every solved problem is another step toward becoming a better programmer." 🚀
 
-Thank you for visiting! ❤️
+---
 
-Happy Coding! 🚀
+## 👩‍💻 Author
+
+Sadia Akter Kajol
+
+Computer Science & Engineering (CSE) Student
+
+⭐ *Thank you for visiting my repository!*
